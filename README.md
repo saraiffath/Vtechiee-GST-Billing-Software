@@ -1,6 +1,6 @@
 # Vtechiee GST Billing Software
 
-An independent, MIT-licensed edition maintained by **Vtechiee Systems**, based on [Free GST Billing Software by DiceCodes](https://github.com/IamRamgarhia/Free-GST-Billing-Software), upstream version 1.10.83 (snapshot `316797ccb2adf8a527cfaa60f0a0e185019ae9db`).
+An independent, MIT-licensed edition maintained by **Vtechiee Systems**
 
 ## Features
 
